@@ -11,8 +11,6 @@
 [Linkedin](https://www.linkedin.com/in/hootan-ht-31888a157) - [Stackoverflow](https://stackoverflow.com/users/10358773/hootanht) - [Twitter](https://twitter.com/hootanht) - [Outlook](mailto:hootanhemmati@outlook.com) - [Telegram](http://t.me/hootanht) - [Resume](https://hootanht.github.io/resume)
 
 <br>
-## What's the weather
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hootanht&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/hootanht)
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=hootanht&show_icons=true" />
