@@ -12,7 +12,7 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/hootanht/hootanht?logo=markdown&label=LAST+UPDATE&color=blue&style=flat">
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 - 💡 Currently working on a few Web Projects
-- 📚 Learning everything Web Develope, Mobile Develope, Machine Learning, ... 
+- 📚 Learning everything Web Develop, Mobile Develope, Machine Learning, ... 
 - 🎮 Play game for habits 😉
 - 💬 Feel free to reach out, happy to help
 
