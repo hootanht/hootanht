@@ -17,6 +17,11 @@
 - 💬 Feel free to reach out, happy to help
 
 ## 🛠️ Languages & Tools
+![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-blueviolet?style=flat-square&logo=visualstudio)
+![NET](https://img.shields.io/badge/-.NET-blueviolet?style=flat-square&logo=dotnet)
+![Csharp](https://img.shields.io/badge/-Csharp-blueviolet?style=flat-square&logo=csharp&logoColor=ffffff)
+![Xamarin](https://img.shields.io/badge/-Xamarin-informational?style=flat-square&logo=xamarin&logoColor=ffffff)
+![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Typescript](https://img.shields.io/npm/types/typescript?color=007acc&label=%20%20%20&logo=typescript&logoColor=ffffff&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
