@@ -43,9 +43,12 @@
  <a href="https://github.com/hootanht">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hootanht&layout=compact&theme=material-palenight&langs_count=12" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=hootanht&show_icons=true&include_all_commits=true&theme=material-palenight" />
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=hootanht&theme=material-palenight" alt="hootanht's Github Steak" />
-  <img height="200em" wdith="50em" src="https://github-readme-stats.vercel.app/api/wakatime?username=hootanht" alt="hootanht's WakaTime" />
+  
  </a>
+  <a>
+    <img height="200em" width="45%" wdith="50em" src="https://github-readme-stats.vercel.app/api/wakatime?username=hootanht&theme=material-palenight" alt="hootanht's WakaTime" />
+  <img height="200em" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=hootanht&theme=material-palenight" alt="hootanht's Github Steak" />
+  </a>
 </p>
 
 #### You can find me on:
