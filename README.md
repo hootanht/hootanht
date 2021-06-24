@@ -47,5 +47,23 @@
 </p>
 
 #### You can find me on:
-[Linkedin](https://www.linkedin.com/in/hootan-ht-31888a157) - [Stackoverflow](https://stackoverflow.com/users/10358773/hootanht) - [Twitter](https://twitter.com/hootanht) - [Outlook](mailto:hootanhemmati@outlook.com) - [Telegram](http://t.me/hootanht) - [Resume](https://hootanht.github.io/resume)
-
+<p align="center">
+<a href="https://twitter.com/hootanht" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://www.linkedin.com/in/hootan-ht-31888a157" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
+  <a href="http://t.me/hootanht" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+ </a>
+ <a href="mailto:hootanhemmati@outlook.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Mail-yellowgreen?style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
+  <a href="https://stackoverflow.com/users/10358773/hootanht" target="_blank">
+  <img src="https://img.shields.io/badge/-STACKOVERFLOW-important?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+ </a>
+  <a href="https://discordapp.com/users/562149371613937664" target="_blank">
+  <img src="https://img.shields.io/badge/-DISCORD-blueviolet?style=for-the-badge&logo=discord&logoColor=white" />
+ </a>
+</p>
