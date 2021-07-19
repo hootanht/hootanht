@@ -46,8 +46,8 @@
   
  </a>
   <a>
-    <img height="200em" width="45%" wdith="50em" src="https://github-readme-stats.vercel.app/api/wakatime?username=hootanht&theme=material-palenight" alt="hootanht's WakaTime" />
-  <img height="200em" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=hootanht&theme=material-palenight" alt="hootanht's Github Steak" />
+    <img height="100%" wdith="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hootanht&layout=compact" alt="hootanht's WakaTime" />
+  <img height="100%" wdith="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hootanht&theme=material-palenight" alt="hootanht's Github Steak" />
   </a>
 </p>
 
