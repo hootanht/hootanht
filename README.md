@@ -73,4 +73,5 @@
   <a href="https://discordapp.com/users/562149371613937664" target="_blank">
   <img src="https://img.shields.io/badge/-DISCORD-blueviolet?style=for-the-badge&logo=discord&logoColor=white" />
  </a>
+  <a href="https://stackoverflow.com/users/10358773/hootanht"><img src="https://stackoverflow.com/users/flair/10358773.png?theme=dark" width="208" height="58" alt="profile for HootanHT at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for HootanHT at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </p>
