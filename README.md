@@ -69,9 +69,6 @@
   
  </a>
   <a>
-    <img height="100%" wdith="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hootanht&layout=compact" alt="hootanht's WakaTime" />
-  </a>
-  <a>
   <img height="100%" wdith="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hootanht&theme=material-palenight" alt="hootanht's Github Steak" />
   </a>
 </p>
