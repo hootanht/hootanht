@@ -28,6 +28,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=hootanht&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📕 Latest Blog Posts
+### 📕 Latest dev.to Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
