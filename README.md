@@ -30,4 +30,9 @@
 
 ### 📕 Latest dev.to Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [From Angular to Blazor: Unleashing the C# Magic!](https://dev.to/hootanht/from-angular-to-blazor-unleashing-the-c-magic-5972)
+- [The Art of C# Pattern Matching](https://dev.to/hootanht/unlocking-the-power-of-pattern-matching-in-c-simplify-complex-conditional-checks-and-type-handling-3p3b)
+- [Understanding Nullable Reference Types in C#](https://dev.to/hootanht/understanding-nullable-reference-types-in-c-3d13)
+- [Performance Issues Resolved: Major Update to Melkradar&#39;s Products](https://dev.to/hootanht/performance-issues-resolved-major-update-to-melkradars-products-3928)
+- [Exploring EF Core Updates Land: Join Us on an Exciting Journey](https://dev.to/hootanht/exploring-ef-core-updates-land-join-us-on-an-exciting-journey-1177)
 <!-- BLOG-POST-LIST:END -->
