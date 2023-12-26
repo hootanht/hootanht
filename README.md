@@ -1,6 +1,8 @@
 # 💫 About Me:
 💻 Hello, I'm Hootan Hemmati, and I'm a full-stack software developer with a passion for empowering projects using C# and .NET technology. Over the years, I've developed a deep understanding of both front-end and back-end development, allowing me to take on projects that others might find daunting.<br><br>🧑‍💻 But what truly sets me apart is my ability to mentor and coach others. I have a natural talent for connecting with people and helping them reach their full potential. Whether it's teaching programming skills or offering guidance on professional development, I always take a patient and tailored approach that is unique to each individual.<br><br>📑 Throughout my career, I've had the opportunity to work on some truly innovative projects, and it's been a joy to see them come to life. But what I find most rewarding is helping others achieve their goals. Watching my mentees and coachees succeed is an incredible feeling, and it's what drives me to keep pushing the boundaries of what's possible.<br><br>🤝 So if you're looking for a software developer who can not only bring your project to life but also guide you towards achieving your goals, then I'm your guy. With my technical expertise and coaching abilities, I can help you unlock your full potential and achieve success in whatever you set out to do.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hootanht&label=Profile%20views&color=0e75b6&style=flat" alt="edrisym" /> </p>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/cAmfY9xvZ5) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hootanht) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hootanht) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hootanht) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hootanht) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hootanht) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/hootanht) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10358773) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/hootanht) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hootanht) 
@@ -14,9 +16,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hootanht&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=hootanht)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
