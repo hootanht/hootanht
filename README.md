@@ -1,4 +1,4 @@
-# � Welcome to My GitHub!
+# 🚀 Welcome to My GitHub!
 
 Hello there! I'm Hootan Hemmati, a seasoned full-stack software developer specializing in C# and .NET technologies. I'm passionate about transforming ideas into reality and creating impactful software solutions.
 
