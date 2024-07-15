@@ -48,9 +48,9 @@ Feel free to explore my repositories and don't hesitate to reach out if you have
 
 ### 📕 Latest dev.to Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Moving Git Stashes Between Devices: A Step-by-Step Guide](https://dev.to/hootanht/moving-git-stashes-between-devices-a-step-by-step-guide-4aaf)
 - [Dev Tunnels in Visual Studio: Your Secret Weapon for Effortless Web API Debugging](https://dev.to/hootanht/dev-tunnels-in-visual-studio-your-secret-weapon-for-effortless-web-api-debugging-2igd)
 - [5 Essential EF Core Performance Tips](https://dev.to/hootanht/5-essential-ef-core-performance-tips-4pmc)
 - [Navigate the Unexpected: Using Copilot in Edge and DevTools](https://dev.to/hootanht/navigate-the-unexpected-using-copilot-in-edge-and-devtools-5bfk)
 - [From Angular to Blazor: Unleashing the C# Magic!](https://dev.to/hootanht/from-angular-to-blazor-unleashing-the-c-magic-5972)
-- [The Art of C# Pattern Matching](https://dev.to/hootanht/unlocking-the-power-of-pattern-matching-in-c-simplify-complex-conditional-checks-and-type-handling-3p3b)
 <!-- BLOG-POST-LIST:END -->
