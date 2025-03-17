@@ -48,9 +48,9 @@ Feel free to explore my repositories and don't hesitate to reach out if you have
 
 ### 📕 Latest dev.to Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with HybridCache in .NET](https://dev.to/hootanht/getting-started-with-hybridcache-in-net-1lb1)
 - [Comprehensive Guide to Implementing Audit Logging in .NET with EF Core Interceptors](https://dev.to/hootanht/comprehensive-guide-to-implementing-audit-logging-in-net-with-ef-core-interceptors-1e83)
 - [Why Span&lt;T&gt; and Ref Structs Can&#39;t Directly Participate in Asynchronous Operations](https://dev.to/hootanht/why-span-and-ref-structs-cant-directly-participate-in-asynchronous-operations-2ag9)
 - [The Double-Edged Sword of IEnumerable and yield return in C#](https://dev.to/hootanht/the-double-edged-sword-of-ienumerable-and-yield-return-in-c-1j3c)
 - [Elevating Dependency Injection in .NET with Scrutor and Autofac](https://dev.to/hootanht/elevating-dependency-injection-in-net-with-scrutor-and-autofac-4nm4)
-- [Moving Git Stashes Between Devices: A Step-by-Step Guide](https://dev.to/hootanht/moving-git-stashes-between-devices-a-step-by-step-guide-4aaf)
 <!-- BLOG-POST-LIST:END -->
